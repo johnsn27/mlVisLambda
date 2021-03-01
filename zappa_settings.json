@@ -1,0 +1,10 @@
+{
+    "staging": {
+        "app_function": "app.app",
+        "profile_name": "zappa",
+        "project_name": "mlvislambda",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-4nrdmt4ey",
+        "slim_handler": true
+    }
+}
